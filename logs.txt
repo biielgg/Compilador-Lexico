@@ -1,0 +1,3 @@
+Caracter Desconhecido # na linha: 1 na coluna: 13
+Caracter Desconhecido % na linha: 2 na coluna: 3
+Caracter Desconhecido $ na linha: 10 na coluna: 1

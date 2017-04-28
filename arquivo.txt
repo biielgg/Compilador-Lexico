@@ -1,0 +1,10 @@
+class Teste:#
+as%
+	def integer funcao():
+		return 3;
+	end;
+	defstatic void main (String[]x);
+		writeln("Hello World").
+	2//end;
+	end.
+$as
